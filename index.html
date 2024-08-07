@@ -3,33 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Display JSON Data</title>
+    <title>Index Of Project API</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+        .button:focus {
+            outline: none;
+        }
     </style>
 </head>
 <body>
-    <div id="json-data">
-        <code id="json-content"></code>
+    <div class="container">
+        <a href="stud_login.json" class="button" target="_blank">View JSON File</a>
     </div>
-
-    <script>
-        // Function to fetch JSON data from the file
-        async function fetchJsonData() {
-            try {
-                const response = await fetch('studdata.json');
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                const data = await response.json();
-                // Format the JSON data with indentation
-                document.getElementById('json-content').textContent = JSON.stringify(data, null, 4);
-            } catch (error) {
-                document.getElementById('json-content').textContent = 'Error loading JSON data: ' + error.message;
-            }
-        }
-
-        // Call the function to fetch and display the JSON data
-        fetchJsonData();
-    </script>
 </body>
 </html>
