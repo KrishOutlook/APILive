@@ -43,9 +43,16 @@
     },
     {
         "stud_id": "7",
-        "stud_name": "Demo",    
+        "stud_name": "Demo",
         "roll_no": "6969",
         "stud_email": "demo@gmail.com",
         "password": "1324"
+    },
+    {
+        "stud_id": "9",
+        "stud_name": "Shiv",
+        "roll_no": "269",
+        "stud_email": "sh@gmail.com",
+        "password": "1234"
     }
 ]
