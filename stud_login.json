@@ -1,58 +1,107 @@
-[
+{"job_listings": [
     {
-        "stud_id": "1",
-        "stud_name": "Krish",
-        "roll_no": "266",
-        "stud_email": "k123@gmail.com",
-        "password": "TYB266"
+        "title": "No-Code BPM Developer",
+        "company": "Digital Experience Labs",
+        "location": "Delhi (Remote)",
+        "description": "Develop functional specifications for system developers, focusing on disruptive workflow/rules engine Decisions in the APAC region.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     },
     {
-        "stud_id": "2",
-        "stud_name": "Raghav",
-        "roll_no": "205",
-        "stud_email": "r123@gmail.com",
-        "password": "TYB205"
+        "title": "Front End Developer",
+        "company": "Coderower Software Pvt Ltd",
+        "location": "Delhi (Remote)",
+        "description": "Collaborate with designers and back-end developers to translate business requirements into interactive applications.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     },
     {
-        "stud_id": "3",
-        "stud_name": "Ohm",
-        "roll_no": "1",
-        "stud_email": "o123@gmail.com",
-        "password": "TYB001"
+        "title": "Front End Developer",
+        "company": "SDGM Technologies Private Limited",
+        "location": "Delhi",
+        "description": "2+ years of experience as a front-end developer, with a bachelor's degree in Computer Science or Web Development.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     },
     {
-        "stud_id": "4",
-        "stud_name": "Yash",
-        "roll_no": "212",
-        "stud_email": "y123@gmail.com",
-        "password": "TYB212"
+        "title": "Software Developer",
+        "company": "Wenidi Technologies Pvt Ltd",
+        "location": "Delhi",
+        "description": "Work closely with experienced developers to design, develop, and maintain web applications using modern technologies.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     },
     {
-        "stud_id": "5",
-        "stud_name": "Pratham",
-        "roll_no": "212",
-        "stud_email": "p123@gmail.com",
-        "password": "TYB212"
+        "title": "Jr Software Developer and Full Stack Developer",
+        "company": "Nexensus",
+        "location": "Delhi",
+        "description": "Clear understanding of software design constructs and their implementation, with knowledge of Java design patterns.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     },
     {
-        "stud_id": "6",
-        "stud_name": "Shasank",
-        "roll_no": "226",
-        "stud_email": "s@gmail.com",
-        "password": "TYB266"
+        "title": "Web Developer",
+        "company": "Aimlay Pvt. Ltd",
+        "location": "Rohini Sub City, Delhi",
+        "description": "Develop and maintain dynamic, responsive websites and web applications using Java, HTML, CSS, JavaScript, and Bootstrap.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     },
     {
-        "stud_id": "7",
-        "stud_name": "Demo",
-        "roll_no": "6969",
-        "stud_email": "demo@gmail.com",
-        "password": "1324"
+        "title": "Software Development Engineer",
+        "company": "Unstop",
+        "location": "Delhi",
+        "description": "Write well-designed, testable, efficient code using best software development practices.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     },
     {
-        "stud_id": "9",
-        "stud_name": "Shiv",
-        "roll_no": "269",
-        "stud_email": "sh@gmail.com",
-        "password": "1234"
+        "title": "SQL Developer",
+        "company": "ScatterPie Analytics",
+        "location": "Delhi",
+        "description": "Understanding of Data warehousing, with a master's degree being an added advantage.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Green Apple Solutions",
+        "location": "Delhi",
+        "description": "Develop scalable, robust, and simple web-based solutions and client-side UI frontend applications.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Inncelerator.com",
+        "location": "New Delhi South Ext-II",
+        "description": "Develop and maintain web applications using relevant tools and technologies like HTML, CSS, JavaScript, React, etc.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Arramton Infotech Private Limited",
+        "location": "Kohat Enclave, Delhi",
+        "description": "Design, develop, and maintain scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
+    },
+    {
+        "title": "Web Developer",
+        "company": "Terrace Garden India",
+        "location": "Dwarka, Delhi",
+        "description": "Design, code, and improve web applications, ensuring an exceptional user experience.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
+    },
+    {
+        "title": "Full Stack Developer Intern",
+        "company": "Nextgenit",
+        "location": "Delhi",
+        "description": "Work with both front-end and back-end technologies, gaining hands-on experience in developing user interfaces.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
+    },
+    {
+        "title": "Web Developer (Experienced)",
+        "company": "Opticvyu",
+        "location": "Delhi",
+        "description": "Update construction and other industries' monitoring technology through time-lapse, 360-degree cameras, and cloud-based monitoring dashboards.",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Neural Niti Private Limited",
+        "location": "Delhi",
+        "description": "Work across the full technology stack, including front-end (UI/UX) and back-end (server, database).",
+        "url": "https://in.indeed.com/q-software-developer-l-delhi%2C-delhi-jobs.html"
     }
-]
+]} 
